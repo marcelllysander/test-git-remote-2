@@ -3,10 +3,11 @@ body {
 }
 
 h2 {
-  color: lightblue;
+  color: salmon;
+  text-decoration: none;
 }
 
 ul {
   text-decoration: none;
-  font-size: 10;
+  font-size: 12;
 }
